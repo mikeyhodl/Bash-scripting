@@ -14,3 +14,5 @@ Is null: -z**
 **Equal: ==
 Not equal: !=**
 
+**if [ "$foo" == "$bar"]
+**
