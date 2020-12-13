@@ -16,3 +16,4 @@ Not equal: !=**
 
 **if [ "$foo" == "$bar"]
 **
+
