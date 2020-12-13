@@ -14,4 +14,3 @@ do
   fi
   greeting_occasion=$((greeting_occasion + 1))
 done
- greeting_limit
